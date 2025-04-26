@@ -6,4 +6,3 @@ libasound2
 libappindicator3-1
 libnspr4
 
-chromium-driver
